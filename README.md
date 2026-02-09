@@ -38,11 +38,5 @@ I operate remotely, collaborating with clients across industries and geographies
 
 ---
 
-## 📫 Let’s Connect  
-- **Portfolio/Website**: [Add your link here]  
-- **LinkedIn**: [Add your link here]  
-- **Email**: [Add your email here]  
-
----
 
 ✨ My GitHub is a space where I share projects, experiments, and contributions that reflect my passion for technology and innovation. I believe in combining technical expertise with creativity to deliver solutions that make a real impact.  
